@@ -1,7 +1,7 @@
 import time
 
 var_counter = 0
-var-counter = int(varcounter)
+var_counter = int(varcounter)
 
 while var_counter < 10: 
   print("                                                            $$\                                                             $$\  ")
